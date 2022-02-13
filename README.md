@@ -1,6 +1,6 @@
 <h1 align="center"> HI, My name is GHOSTEPROG <img width="45" src="https://github.com/sudimuk2017/qwaszx/blob/main/waving_hand.gif"</h1>
 
-# 💫About Me :
+💀About Me :
 💻I do backend websites with the powerful DJANGO framework
 💻I do the front of the websites with the powerful REACT framework
 
